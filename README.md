@@ -3,5 +3,5 @@
 ## Table of Contents
 ## Projects
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/khanzara8/
-- Email: zxkhan.99@gmail.com 
+- [LinkedIn] (https://www.linkedin.com/in/khanzara8/)
+- [Email] (zxkhan.99@gmail.com)
