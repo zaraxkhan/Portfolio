@@ -4,6 +4,8 @@ Hi, I'm Zara! I have a background in the healthcare industry and hold a B.S in H
 
 This repository is to showcase all the new skills I have learned in the projects that I have created. Some are from the classwork I had and others I did on the side for fun! 
 
+Skills: Python, Pandas, Numpy, APIs, Javascript, HTML, SQL
+
 ## Projects
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/khanzara8/)
