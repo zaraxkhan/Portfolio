@@ -4,4 +4,4 @@
 ## Projects
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/khanzara8/)
-- [Email](zxkhan.99@gmail.com)
+- [Email](mailto:zxkhan.99@gmail.com)
