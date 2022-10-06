@@ -6,7 +6,15 @@ This repository is to showcase all the new skills I have learned in the projects
 
 Skills: Python, Pandas, Numpy, APIs, Javascript, HTML, SQL
 
-## Projects
+## Projects // WORK IN PROGRESS
+### Python
+#### School District Analysis
+#### Pyber Analysis
+#### Weather Vacation Itinerary with API Calls
+
+### Javascript
+#### Bacteria Biodiversity
+#### UFOs
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/khanzara8/)
 - [Email](mailto:zxkhan.99@gmail.com)
